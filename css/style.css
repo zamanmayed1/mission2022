@@ -21,7 +21,7 @@ body {
   background-color: FFFFFF;
 }
 
-/* section2 */
+/* Section1 Start */
 
 .section1 {
   width: 100%;
@@ -98,8 +98,9 @@ body {
 #scroll {
   font-weight: bold;
 }
+/* Section1 End */
 
-/* section2 */
+/* Section2 Start */
 
 .section2 {
   width: 100%;
@@ -169,8 +170,9 @@ body {
   width: 45%;
   margin-bottom: 15px;
 }
+/* Section2 End */
 
-/* Section 3 */
+/* Section3 Start */
 
 .section3 {
   width: 100%;
@@ -230,8 +232,9 @@ body {
   font-weight: bold;
   color: white;
 }
+/* Section3 End */
 
-/* section4 */
+/* Section4 Start */
 
 .section4 {
   width: 100%;
@@ -267,7 +270,9 @@ body {
   padding-right: 100px;
   border-radius: 30px;
 }
-/* section */
+/* Section4 End */
+
+/* Section5 Start */
 .section5 {
   width: 100%;
   height: 650px;
@@ -378,6 +383,9 @@ li {
   font-weight: bold;
   color: white;
 }
+
+/* Section5 End */
+/* Footer Start */
 footer {
   width: 100%;
   height: 150px;
@@ -397,3 +405,4 @@ footer {
 #footerp {
   color: white;
 }
+/* Footer End */
